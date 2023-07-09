@@ -8,10 +8,10 @@ export default function Skills() {
         <h2>Skills</h2>
         <div class="row">
           <div class="col-md-4 mb-4">
-            <img src="images/icons/html5.png" alt="HTML 5 Icon" />
+            <img src="images/icons/HTML5.png" alt="HTML 5 Icon" />
           </div>
           <div class="col-md-4 mb-4">
-            <img src="images/icons/js.png" alt="Javascript Icon" />
+            <img src="images/icons/JS.png" alt="Javascript Icon" />
           </div>
           <div class="col-md-4 mb-4">
             <img src="images/icons/React.png" alt="React Icon" />
